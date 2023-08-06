@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "composer-pratice",
+  "private_key_id": "bb6036d037b3fd55ece9e7b8f90ac359a0f42bc7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCqvRvtQqXZ2/k/\n54JfKOuYnZ3+jf2WMW3qONPglSdTD63a0jsGzFJXIVYqxqF811ubulxHjdIu37oj\nzlm3Px9J9Q56tG52FS/YM1s0a71YYN+s+QUUTgdTFrNhvN7iJ5PbZ1B+JuLQX0vR\nHBW+AO3C64W7XxFFF1W6xWc7r0QabHa2j8DZtfsFk3LqikunYd5ls4oHasCRY2j2\nOcHhoDtHP3+QruiWyMHPjM21BegsHkqhF++zNOivdsYChmD02CkJaSE+AQDuDmUX\n5Z1+FRGaZqrDgpfWnlN4vqmYVMvNFsXDlSNCQyhLNiptM5Cz/TnL7Q07bDzimbtf\nekaSdH1dAgMBAAECggEAAIpx+B3V19C6ziFDWDOmurhwa5c9tk1TR2KP3JOps3lm\np/1c+v/y2HxOS9COao5lvPf0OrTKtY53W42ChWem3M2GKCIsrGU+SM1xge2/xIkl\nWY9TXQsEj8E6vGSZrHaKy8SHbH2JNTbsDvjrYmCZ4DFt88KQvoWHpmcMKpP69P4h\ndwftbcdVFOQoHdqE1Ty6OYLSLeuXaNog65cK8rXYCx9ERdI70aM4N9yOmgZ45Urk\nAeKhtdPQiHvXDM6E7RQQ07SzmVq2addG4EYczqC2ZS0ePpOoi/DqYgaMNgVPn9vF\n/rVXowpDFIiNeGtSbbJ14f7NVgfEXr2MyWFnEB68KQKBgQDbMN4mbckjrKIvE/wO\nQFnSpYLkEH2l9WCvOYdkInzltvzWfwlzk1M02xv30VeQZAwL0YH+/nYf9QWUBvDN\ndzLwGHs1h6vEDvSC9ZRmUWSKy5x8YDUhZjfWyQdlLjBlxb4g9oGcYrz0J+oI2ac8\nVmWBw9H8GQzmw9hlnxRUFq87iQKBgQDHaUGiLvgCixvNVOX7G7q1BvE1wB/GGXIZ\nw1HRdjjpSSwT8a1M4u+3ZsroSVUHzul8pXvspUyStuYbFvA9jrceTA0YWSW8ciLD\nI0GY67b5BQksmx+uOSgeAUxM3DCNSIaOoA7jM+uXkCwqPmcBnLpA+cxY+Lnlk+ip\nmEpE4IdaNQKBgFfcaNACpeO06XXxjtGvndHAIo2ExrjleRID/292G5aBGSxp08IO\nRgYj5jwaH/1y/Rknq/Io0fTRZKEHfzL9Gt//EDRO4909GWn9QrUY3zJ7l4iLkACJ\nVsyz3FEEiMXi0+mmpiGnupIsBbXyeQTIpPu1INDqwa8mxfFGKQHj7e3xAoGAC/hX\nhkLHhG+RRawY+g/aD0/RXuafgaa5YK6G1MoB9I795FyXiIv+08WJ3JO6VPOotGDC\npZvuksgD3BBub2OHvnvWNWX0i/FWANy27VUI8L3KpTDSoASyUcrGJ7738yMtYJZf\nDmhpdfmjjQ2d5UzhKVFVYOndTtioGLYZjzTjKxkCgYA/8travwB7EoO4FbOtUFr1\nmLoXUQ2Hd8ECzvbOkqBYQFnZVLu2AGd/2Gd2PnhEjTaHRW5zdYH8WxyZsG3FEG2c\nEHw/wpiMHuEi/JXLEshm/y5pHzY8cZAl1sQhNEqy8O8B+5jn9pBgeZKum4TWJoFc\nLdbU309/B/Da8etTFoRGvw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "connect-local-composer-project@composer-pratice.iam.gserviceaccount.com",
+  "client_id": "114661416721800456842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/connect-local-composer-project%40composer-pratice.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
