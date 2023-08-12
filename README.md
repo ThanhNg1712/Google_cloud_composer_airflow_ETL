@@ -22,7 +22,7 @@ Script: `newegg_DAG.py`
 - With write_disposition = 'WRITE_APPEND', newly uploaded data will merge into the existing table
 - After loading to the final table, the staging table is deleted
   
-## Step 3: Airflow ETL Pipelines Tiki NEW EGG data
+## Step 3: Airflow ETL Pipelines Tiki data
 ![Tiki](https://github.com/ThanhNg1712/Google_cloud_composer_airflow_ETL/raw/main/project6_airflow_composer/data/tiki.jpg)
 Script: `tiki_DAG.py`
 - An empty staging table is created in task 1
@@ -67,7 +67,7 @@ WHERE attr.code = "origin" AND attr.value = "Trung Quốc";
 ## Step 5: Data Migration Automation
 
 - A cron job is set up to automate the transfer of data from MongoDB and MySQL to Google Cloud Storage
-- The task is scheduled to run daily at 6:50 a.m since Airflow is schedule at 7:00 am
+- The task is scheduled to run daily at 6:50 a.m since Airflow is scheduled at 7:00 am
 - crontab command can be found below
 
 env EDITOR= nano crontab -e
